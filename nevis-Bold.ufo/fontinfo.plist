@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1491</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Typeface (C) (your company). 2007. All Rights Reserved</string>
+	<key>descender</key>
+	<integer>-431</integer>
+	<key>description</key>
+	<string>This font was created using FontCreator 5.6 from High-Logic.com</string>
+	<key>familyName</key>
+	<string>nevis Bold</string>
+	<key>openTypeHeadCreated</key>
+	<string>2007/11/19 22:36:06</string>
+	<key>openTypeNameDesigner</key>
+	<string>Ed Merritt</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.edmerritt.com/</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Ten by Twenty</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.tenbytwenty.com/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>nevis</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>vendorID</key>
+	<string>HL  </string>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

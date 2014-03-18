@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'nevis Bold';
+  src: url('nevis-Bold.eot'); /* IE9 Compat Modes */
+  src: url('nevis-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('nevis-Bold.woff') format('woff'), /* Modern Browsers */
+       url('nevis-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('nevis-Bold.svg#ef843a52bd54509ccc4de6f0ee848fc5') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
